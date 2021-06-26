@@ -1,6 +1,10 @@
 ### Hello Earthlings,
 <!--!> 
-(A,S,L=28,F,ME,USA) 
+(A,S,L)=
+-28
+-F
+-ME,USA
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ________----------_________---------_________--------________--------__________-----------
 - 🔭 I’m currently working on ... Changing the WORLD <((@))>                             *
 - 🌱 I’m currently learning ... Developing,Coding and building innovative software.      *
